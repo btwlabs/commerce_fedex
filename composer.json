@@ -1,5 +1,5 @@
 {
-  "name": "drupal/commerce_fedex",
+  "name": "btwlabs/commerce_fedex",
   "type": "drupal-module",
   "description": "Provides FedEx integration with Commerce Shipping.",
   "homepage": "https://www.drupal.org/project/commerce_fedex",
