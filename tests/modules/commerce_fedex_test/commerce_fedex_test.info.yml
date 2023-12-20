@@ -1,0 +1,13 @@
+name: Commerce Fedex Test
+type: module
+description: Test services for Commerce Fedex Shipping.
+package: Testing
+dependencies:
+  - commerce_shipping:commerce_shipping
+  - commerce:commerce_checkout
+  - commerce_fedex:commerce_fedex
+
+# Information added by Drupal.org packaging script on 2021-09-14
+version: '8.x-1.0-beta3+2-dev'
+project: 'commerce_fedex'
+datestamp: 1631626725
